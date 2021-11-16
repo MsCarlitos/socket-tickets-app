@@ -1,1 +1,1 @@
-"# socket-tickets-app" 
+# socket-tickets-app
